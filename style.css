@@ -68,6 +68,10 @@ footer{
         margin: 0 10px;
     }
 
+    #app_body h1{
+        font-size: 30px;
+    }
+
     #app_body input{
         font-size: 25px;
         text-align: center;
